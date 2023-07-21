@@ -1,6 +1,6 @@
 # FaceRecognition
 
-**使用svm，knn，pca，lda，cnn等多种方式在ORL数据集完成人俩识别任务，并比较分类精度**
+使用svm，knn，pca，lda，cnn等多种方式在ORL数据集完成人俩识别任务，并比较分类精度
 
 ## 项目结构
 
